@@ -1,7 +1,7 @@
-# TributePage-FCCProject
-This is a tribute page for an interesting individual.
+# Tribute-Page
+This is a tribute page for the freeCodeCamp responsive web design projects.
 
-GitHub io: https://robert-desmond.github.io/TributePage-FCCProject/
+GitHub io: https://robert-desmond.github.io/Tribute-Page/
 
 Codepen: https://codepen.io/robert-desmond/pen/gOMZqMo
 
